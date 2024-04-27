@@ -48,5 +48,7 @@ title: Create  Own git server
 
   URL:git@hostname:projects/*git
 
+  So, Creating git server in your home in very easy...
+
 
        
