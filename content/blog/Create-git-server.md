@@ -1,5 +1,6 @@
 ---
-title: Create  Own git server 
+title: Create Your Own git server 
+date: 2024-04-27
 ---
 
 [I] Create user Name git
