@@ -45,7 +45,6 @@ title: Create  Own git server
       git remote add (remote name) git@hostname:projects/*.git
 
       Now you can push and Fetch the repo using thie url
-
   URL:git@hostname:projects/*git
 
 
