@@ -14,6 +14,8 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/blog/create-git-server/</loc>
+  </url><url>
     <loc>http://localhost:1313/donate/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

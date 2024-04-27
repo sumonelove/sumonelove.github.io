@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta name="generator" content="Hugo 0.124.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Sumit Kumar</title>
+	<title>Create  Own git server | Sumit Kumar</title>
     
     <link rel="stylesheet" href="/css/style.fcb0ae4fc5ffa3a7f33ae3346223371be9a11071ee816ccf534fdaa05628bcbf.css" type="text/css" media="all" />
 	<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
-	<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="Sumit Kumar" />
 	</head>
 
 <body>
@@ -57,57 +55,53 @@
 <main class="content">
 
 
-<section class="hero">
-<div>
-<h1>Hey, I&#39;m sum.</h1>
-I&rsquo;m a <strong>Devops Engineer</strong> and <strong>Engineering student</strong> who has a strong interest in Networking, linux, penetration testing and technology in general. I’m also experienced in working with Linux-based servers and enjoy tinkering with them to improve my skills.I am a 21 old guy from India.
-I like to self hosting my stuff and feel strongly about software freedom, digital privacy, and decentralization.
-</div>
-<div>
 
 
 
+<header class="single-header content-inner full-width">
+    <h1 class="single-title">Create  Own git server</h1>
+
+    
+</header>
 
 
+<p>[I] Create user Name git</p>
+<pre><code>useradd -m git -d /var/git -s (any shell bin path)
+</code></pre>
+<p>[II] Setup passwd of git user</p>
+<pre><code> sudo passwd git
+</code></pre>
+<p>[III] Copy ssh pub key from already exist user or set your own</p>
+<pre><code>cp -r .ssh /git user home dir path...
 
+(***)See the authorized_keys file Content
+</code></pre>
+<p>[IV] Make git user normal user to root user</p>
+<pre><code> sudo usermod -aG sudo git
+</code></pre>
+<p>[V] Give Permissions and Change Ownership of .ssh dir</p>
+<pre><code>sudo chmod 700 .ssh &amp;&amp; sudo chmod 600 authorized_keys
 
+sudo chown git .ssh &amp;&amp; sudo chown git .ssh/authorized_keys
+</code></pre>
+<p>[VI] Add user or group of in /usr/ssh/sshd_config file allowuser or allowgroups  *username</p>
+<pre><code> sudo usermod -aG ssh-access *user_name 
 
-<figure>
-    <picture>
-      <source srcset="/images/avatar_hub39746ae588508d0d5be39fd1a4aff78_26010_255x0_resize_q90_h2_box.webp" type="image/webp">
-      <img src="/images/avatar_hub39746ae588508d0d5be39fd1a4aff78_26010_255x0_resize_q90_box.jpg" alt="Sumit Kumar" loading="eager" width="350" height="350" />
-    </picture>
-</figure>
+ vim /etc/ssh/sshd_config 
+</code></pre>
+<p>[VI] rstart the sshd deamon</p>
+<pre><code> service sshd restart
+</code></pre>
+<p>[VI] Create Bare Repo for Git server</p>
+<pre><code> git init --bare /projects/*.git
+</code></pre>
+<p>[VII] push and ferch url</p>
+<pre><code>  git remote add (remote name) git@hostname:projects/*.git
 
+  Now you can push and Fetch the repo using thie url
+</code></pre>
+<p>URL:git@hostname:projects/*git</p>
 
-</div>
-</section>
-
-<div class="card">
-    <div class="card-background"></div>
-    <div class="card-content">
-        <h2 id="looking-for-something">Looking for something?</h2>
-<ul>
-<li>Watch my videos on <a href="https://youtube.com/@sumonelove" target="_blank" rel="noopener">YouTube</a>.</li>
-<li>Find my dotfiles and scripts on <a href="https://github.com/sumonelove" target="_blank" rel="noopener">GitHub</a>.</li>
-<li>✉ Want to get in touch? Feel free to <a href="/contact">drop me a message</a>.</li>
-</ul>
-
-    </div>
-</div>
-
-
-
-
-<h2>Latest posts</h2>
-<ul class="home-posts">
-
-<li class="home-posts-item">
-    <time class="post-date" datetime="0001-01-01T00:00:00Z">January 1, 0001</time>
-    <a href="http://localhost:1313/blog/create-git-server/">Create  Own git server</a>
-</li>
-
-</ul>
 
 </main>
 
@@ -137,5 +131,4 @@ I like to self hosting my stuff and feel strongly about software freedom, digita
 
 </body>
 </html>
-
 
