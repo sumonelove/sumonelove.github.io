@@ -14,7 +14,7 @@ title: Create  Own git server
  
     cp -r .ssh /git user home dir path...
 
-    (***)See the authorized_keys file Content
+    [***]See the authorized_keys file Content
 
 [IV] Make git user normal user to root user
 
@@ -44,7 +44,8 @@ title: Create  Own git server
 
       git remote add (remote name) git@hostname:projects/*.git
 
-      Now you can push and Fetch the repo using thie url
+[^_^] Now you can push and Fetch the repo using thie url
+
   URL:git@hostname:projects/*git
 
   So, Creating git server in your home in very easy...
