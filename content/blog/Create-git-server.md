@@ -47,5 +47,7 @@ title: Create  Own git server
       Now you can push and Fetch the repo using thie url
   URL:git@hostname:projects/*git
 
+  So, Creating git server in your home in very easy...
+
 
        
