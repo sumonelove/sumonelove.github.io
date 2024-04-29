@@ -18,7 +18,7 @@ title = "Sumit Kumar"
 
 
   [[menu.main]]
-    name = "Nework"
+    name = "Social-Pages"
     url = "/social-pages"
     weight = 40
 
