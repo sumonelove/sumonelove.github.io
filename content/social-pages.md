@@ -7,4 +7,4 @@ Checkout My social page to connect me on social medial...
 
 [Linkedin](https://www.linkedin.com/in/sum0ne/)
 
-[X](https://x.com/sum0nelove/)
+[X](https://x.com/sumo9e/)
