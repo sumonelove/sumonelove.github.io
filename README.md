@@ -1,4 +1,4 @@
-# My website ([https://sumonelove.in](https://sumonelove.in))
+# My website ([https://sumonelove.in](https://sumone.love))
 
 My personal website for writing various thoughts and other nonsense.
 
