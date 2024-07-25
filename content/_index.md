@@ -11,6 +11,6 @@ I like to self hosting my stuff and feel strongly about software freedom, digita
 ## Looking for something?
 
 -  Watch my videos on [YouTube](https://youtube.com/@sumonelove).
--  Find my dotfiles and scripts on [GitHub](https://github.com/sumonelove).
+-  Find my dotfiles and scripts on [GitHub](https://github.com/sumo1e).
 - ✉ Want to get in touch? Feel free to [drop me a message](/contact).
 {{</ card >}}
