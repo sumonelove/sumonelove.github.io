@@ -1,6 +1,6 @@
 ---
 title: social-pages
-lastmod: 2023-06-29
+lastmod: 2024-10-18
 ---
 
 Checkout My social page to connect me on social media...
