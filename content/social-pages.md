@@ -9,4 +9,4 @@ Checkout My social page to connect me on social media...
 
 [X](https://x.com/sumo9e/)
 
-[Telegram] (https://t.me/sumonelove/)
+[Telegram](https://t.me/sumonelove/)
