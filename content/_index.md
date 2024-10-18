@@ -1,6 +1,6 @@
 ---
 title: "Hey, I'm sum."
-description: "I'm a **Devops Engineer** and **Engineering student** who has a strong interest in Networking, linux, penetration testing and technology in general. 
+description: "I'm a **Upcoming Devops Engineer** and **Engineering student** who has a strong interest in Networking, linux, penetration testing and technology in general. 
 
 I’m also experienced in working with Linux-based servers and enjoy tinkering with them to improve my skills.I am a 21 old guy from India.
 
