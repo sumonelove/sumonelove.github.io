@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sumit Kumar</title>
-    <link>https://sumone.love/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Sumit Kumar's website</description>
-    <atom:link href="https://sumone.love/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Objective of RHCSA</title>
-      <link>https://sumone.love/blog/objective-of-rhcsa/</link>
+      <link>http://localhost:1313/blog/objective-of-rhcsa/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://sumone.love/blog/objective-of-rhcsa/</guid>
+      <guid>http://localhost:1313/blog/objective-of-rhcsa/</guid>
       <description>&lt;p&gt;Study points for the exam&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;RHCSA exam candidates should be able to accomplish the tasks below without assistance. These have been grouped into several categories.
 &lt;/code&gt;&lt;/pre&gt;
@@ -107,10 +107,10 @@
     
     <item>
       <title>Create Your Own git server</title>
-      <link>https://sumone.love/blog/create-git-server/</link>
+      <link>http://localhost:1313/blog/create-git-server/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://sumone.love/blog/create-git-server/</guid>
+      <guid>http://localhost:1313/blog/create-git-server/</guid>
       <description>&lt;p&gt;[I] Create user Name git&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;useradd -m git -d /var/git -s (any shell bin path)
 &lt;/code&gt;&lt;/pre&gt;
