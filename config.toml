@@ -8,7 +8,7 @@ title = "Sumit Kumar"
 
   [[menu.main]]
     name = "Blog"
-    url = "/blog"
+    url = "https://blog.sumone.love/"
     weight = 10
 
   [[menu.main]]
