@@ -27,11 +27,6 @@ title = "Sumit Kumar"
     url = "/contact"
     weight = 50
 
-  [[menu.main]]
-    name = "Donate"
-    url = "/donate"
-    weight = 60
-
   [[menu.social]]
     name = "GitHub"
     pre = "github"
