@@ -12,12 +12,6 @@ title = "Sumit Kumar"
     weight = 10
 
   [[menu.main]]
-    name = "Videos"
-    url = "/videos"
-    weight = 20
-
-
-  [[menu.main]]
     name = "Social-Pages"
     url = "/social-pages"
     weight = 40
@@ -33,11 +27,6 @@ title = "Sumit Kumar"
     url = "https://github.com/sumo1e"
     weight = 10
 
-  [[menu.social]]
-    name = "YouTube"
-    pre = "youtube"
-    url = "https://youtube.com/@sumonefromindia"
-    weight = 20
 
   [[menu.social]]
     name = "RSS Feed"
