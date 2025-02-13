@@ -1,6 +1,6 @@
 ---
-title: "Hey, I'm sum."
-description: "I'm a **Final Year Engineering student** who has a strong interest in linux,opensource,Networking, penetration testing and technology in general. 
+title: "Hey, I'm sumit."
+description: "I'm a **Final Year Engineering student && Upcoming DevOps Engineer** who has a strong interest in linux,opensource,Networking, penetration testing and technology in general. 
 
 I’m also experienced in working with Linux-based servers and enjoy tinkering with them to improve my skills.I am a 22 old guy from India.
 
