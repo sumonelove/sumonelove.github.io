@@ -10,6 +10,6 @@ I like to self hosting my stuff and feel strongly about software freedom, digita
 {{< card >}}
 ## Looking for something?
 
--  Find my dotfiles and scripts on [GitHub](https://github.com/sumo1e).
-- ✉ Want to get in touch? Feel free to [drop me a message](/contact).
+-  Find my dotfiles and scripts on [GitHub](https://github.com/sumonelove).
+-  Want to get in touch? Feel free to [drop me a message](/contact).
 {{</ card >}}
