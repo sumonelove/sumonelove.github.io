@@ -12,8 +12,8 @@ title = "Sumit Kumar"
     weight = 10
 
   [[menu.main]]
-    name = "Social-Pages"
-    url = "/social-pages"
+    name = "Social"
+    url = "/social"
     weight = 40
 
   [[menu.main]]
