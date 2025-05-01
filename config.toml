@@ -6,7 +6,7 @@ title = "Sumit Kumar"
 
 [menu]
  
-[menu.main]]
+[menu.main]
     name = "Library"
     url = "https://elib.sumone.love/"
     weight = 10
