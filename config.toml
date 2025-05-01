@@ -5,11 +5,7 @@ title = "Sumit Kumar"
     post = "/blog/:slug"
 
 [menu]
- 
-[menu.main]
-    name = "Library"
-    url = "https://elib.sumone.love/"
-    weight = 10
+
 
   [[menu.main]]
     name = "Thoughts"
@@ -20,7 +16,11 @@ title = "Sumit Kumar"
     name = "Git"
     url = "https://git.sumone.love/"
     weight = 10
-
+ 
+[[menu.main]]
+    name = "Library"
+    url = "https://elib.sumone.love/"
+    weight = 10
     
   [[menu.main]]
     name = "Social"
