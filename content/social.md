@@ -7,7 +7,7 @@ Checkout My social page to connect me on social media...
 
 [Linkedin](https://www.linkedin.com/in/sum0ne/)
 
-[X](https://x.com/sumo9e/)
+[X](https://x.com/sumonefromindia/)
 
 [Insta](https://instagram.com/echosumit)
 
