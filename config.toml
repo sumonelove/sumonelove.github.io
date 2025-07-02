@@ -9,7 +9,7 @@ title = "Sumit Kumar"
 
   [[menu.main]]
     name = "Thoughts"
-    url = "https://blog.sumone.love/"
+    url = "https://blog.sumone.me/"
     weight = 10
 
 [[menu.main]]
