@@ -14,12 +14,12 @@ title = "Sumit Kumar"
 
 [[menu.main]]
     name = "Git"
-    url = "https://git.sumone.love/"
+    url = "https://git.sumone.me/"
     weight = 10
  
 [[menu.main]]
     name = "Library"
-    url = "https://elib.sumone.love/"
+    url = "https://elib.sumone.me/"
     weight = 10
     
   [[menu.main]]
