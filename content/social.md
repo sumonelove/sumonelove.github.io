@@ -9,6 +9,6 @@ Checkout My social page to connect me on social media...
 
 [X](https://x.com/sumonefromindia/)
 
-# [Insta](https://instagram.com/echosumit)
+<!--[Insta](https://instagram.com/echosumit) -->
 
 [Tg](https://t.me/sumonelove/)
