@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-You can send me an email at **[sumit@sumone.love](mailto:sumit@sumone.love)**.
+You can send me an email at **[sumit@sumone.me](mailto:sumit@sumone.me)**.
 
 Currently I am not use PGP encryption.
 
