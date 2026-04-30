@@ -1,4 +1,4 @@
-baseURL = "https://sumone.me/"
+baseURL = "https://sumone.xyz/"
 title = "Sumit Kumar"
 
 [permalinks]
@@ -9,7 +9,7 @@ title = "Sumit Kumar"
 
   [[menu.main]]
     name = "blog"
-    url = "https://blog.sumone.me/"
+    url = "https://blog.sumone.xyz/"
     weight = 10
 
     
@@ -26,7 +26,7 @@ title = "Sumit Kumar"
   [[menu.social]]
     name = "GitHub"
     pre = "github"
-    url = "https://github.com/genzcaveman"
+    url = "https://github.com/sumonelove"
     weight = 10
 
 
